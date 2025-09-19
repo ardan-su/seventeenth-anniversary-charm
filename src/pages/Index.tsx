@@ -22,7 +22,7 @@ const Index = () => {
               Happy 17th Birthday
             </h1>
             <p className="font-elegant text-2xl md:text-3xl text-foreground/80 mb-8">
-              Untuk malaikat kecilku yang paling berharga
+              Untuk Babyyyyyykuuu Keisyaa Wulann yang paling berharga
             </p>
             <div className="font-script text-4xl text-accent">
               17 Juni 2025
@@ -55,7 +55,7 @@ const Index = () => {
               <Sparkles className="mx-auto text-primary-foreground mb-4 animate-pulse-love" size={48} />
               <h3 className="font-script text-2xl text-primary-foreground mb-4">Doa</h3>
               <p className="font-elegant text-primary-foreground/80">
-                Semoga Allah SWT selalu melindungi dan memberkati langkahmu
+                Semoga Kitaaa terusss bersamaaa selaluuuu
               </p>
             </div>
             
